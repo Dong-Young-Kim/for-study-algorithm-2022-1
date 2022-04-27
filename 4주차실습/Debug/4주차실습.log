@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\KIMDONGYOUNG\OneDrive - 인하대학교\COL\3-1\알고리즘설계_002\code\4주차실습\main.cpp(40,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\KIMDONGYOUNG\OneDrive - 인하대학교\COL\3-1\알고리즘설계_002\code\4주차실습\main.cpp(45,13): warning C4018: '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\KIMDONGYOUNG\OneDrive - 인하대학교\COL\3-1\알고리즘설계_002\code\4주차실습\main.cpp(57,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  4주차실습.vcxproj -> C:\Users\KIMDONGYOUNG\OneDrive - 인하대학교\COL\3-1\알고리즘설계_002\code\4주차실습\Debug\4주차실습.exe
